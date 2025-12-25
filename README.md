@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasudev-tishi&label=Profile%20views&color=0e75b6&style=flat" alt="vasudev-tishi" /> </p>
 
-- 🌱 I’m currently learning **📚 Technical Skills - Python libraries: pandas, NumPy, matplotlib, seaborn - Data visualization tools: Power BI, Tableau - Machine learning basics: scikit-learn, regression, classification - SQL & Databases: querying and data management - Cloud & Big Data: basics of AWS**
+- 🌱 I’m currently learning **
+- 📚 Technical Skills - Python libraries: pandas, NumPy, matplotlib, seaborn
+- - Data visualization tools: Power BI, Tableau
+- - Machine learning basics: scikit-learn, regression, classification
+- - SQL & Databases: querying and data management
+- - Cloud & Big Data: basics of AWS**
 
 - 💬 Ask me about **💻 Technical - Python (pandas, NumPy, matplotlib, seaborn) - Data visualization & dashboards (Power BI, Tableau) - Machine learning basics (scikit-learn, regression, classification) - SQL & database management**
 
